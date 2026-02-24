@@ -1,0 +1,18 @@
+{
+  "name": "markmdev",
+  "owner": {
+    "name": "Mark Morgan",
+    "url": "https://github.com/markmdev"
+  },
+  "plugins": [
+    {
+      "name": "reflex",
+      "source": {
+        "source": "github",
+        "repo": "markmdev/reflex"
+      },
+      "description": "Context router — auto-injects relevant docs and skills before Claude responds",
+      "version": "0.1.0"
+    }
+  ]
+}
