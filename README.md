@@ -20,5 +20,5 @@ Reflex watches your conversation and uses a fast model to decide which docs and 
 
 **Requires:** the `reflex` binary installed separately:
 ```bash
-go install github.com/markmdev/reflex@latest
+curl -sL https://raw.githubusercontent.com/markmdev/reflex/master/install.sh | sh
 ```
