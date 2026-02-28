@@ -13,6 +13,15 @@
       },
       "description": "Context router — auto-injects relevant docs and skills before Claude responds",
       "version": "0.1.0"
+    },
+    {
+      "name": "meridian",
+      "source": {
+        "source": "github",
+        "repo": "markmdev/meridian"
+      },
+      "description": "Agent enforcement framework — context injection, planning gates, session learning",
+      "version": "0.6.0"
     }
   ]
 }
