@@ -12,7 +12,7 @@
         "repo": "markmdev/reflex"
       },
       "description": "Context router — auto-injects relevant docs and skills before Claude responds",
-      "version": "0.1.0"
+      "version": "0.1.5"
     },
     {
       "name": "meridian",
@@ -21,7 +21,7 @@
         "repo": "markmdev/meridian"
       },
       "description": "Agent enforcement framework — context injection, planning gates, session learning",
-      "version": "0.6.0"
+      "version": "0.7.9"
     }
   ]
 }
