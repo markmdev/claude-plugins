@@ -21,7 +21,7 @@
         "repo": "markmdev/meridian"
       },
       "description": "Agent enforcement framework — context injection, planning gates, session learning",
-      "version": "0.7.9"
+      "version": "0.8.0"
     }
   ]
 }
